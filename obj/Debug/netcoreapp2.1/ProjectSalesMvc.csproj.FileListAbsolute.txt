@@ -38,6 +38,7 @@ C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\D
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\ProjectSalesMvc.deps.json
@@ -78,3 +79,5 @@ C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSal
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.pdb
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.genruntimeconfig.cache
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csproj.CopyComplete
+=======
+>>>>>>> 869044ec79d99147628b0ecd048b850494b9a96f
