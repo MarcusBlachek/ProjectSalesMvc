@@ -33,4 +33,3 @@ C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesM
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.genruntimeconfig.cache
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csproj.CopyComplete
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csprojAssemblyReference.cache
-C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
