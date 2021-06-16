@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xViFz9Avh6Hun3GEVT4S05GXkTk9qGltwZQu+vGyaTQVBsXMoXKWyj0iJy94JVGoUCMt+4qGTH84hx4nX78X4g==",
+  "dgSpecHash": "ABruP8uyGSu5bZh5674o3PfCFFtjC/gwhvsdhD9W33O/WezXOVJ/kUnQAoh6EaKNkySEaTqr4t1fc/EGTaCstA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Estudos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

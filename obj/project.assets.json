@@ -12658,11 +12658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Estudos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
       "projectName": "ProjectSalesMvc",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Estudos\\ProjectSalesMvc\\ProjectSalesMvc.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\ProjectSalesMvc\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Estudos\\ProjectSalesMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
