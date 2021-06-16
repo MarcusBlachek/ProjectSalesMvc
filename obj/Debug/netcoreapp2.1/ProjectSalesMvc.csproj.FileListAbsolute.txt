@@ -7,7 +7,6 @@ C:\Users\Dell\source\repos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\ProjectSalesM
 C:\Users\Dell\source\repos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\ProjectSalesMvc.pdb
 C:\Users\Dell\source\repos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\ProjectSalesMvc.Views.dll
 C:\Users\Dell\source\repos\ProjectSalesMvc\bin\Debug\netcoreapp2.1\ProjectSalesMvc.Views.pdb
-C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csprojAssemblyReference.cache
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.AssemblyInfoInputs.cache
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.AssemblyInfo.cs
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesM
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.pdb
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.genruntimeconfig.cache
 C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csproj.CopyComplete
+C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
