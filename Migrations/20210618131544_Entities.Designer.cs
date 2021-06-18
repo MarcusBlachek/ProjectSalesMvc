@@ -2,7 +2,6 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProjectSalesMvc.Data;
@@ -10,22 +9,20 @@ using ProjectSalesMvc.Data;
 namespace ProjectSalesMvc.Migrations
 {
     [DbContext(typeof(ProjectSalesMvcContext))]
-    [Migration("20210617172038_OutrasEntidades")]
-    partial class OutrasEntidades
+    [Migration("20210618131544_Entities")]
+    partial class Entities
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("ProductVersion", "2.1.14-servicing-32113")
-                .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("ProjectSalesMvc.Models.Department", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                        .ValueGeneratedOnAdd();
 
                     b.Property<string>("Name");
 
@@ -37,8 +34,7 @@ namespace ProjectSalesMvc.Migrations
             modelBuilder.Entity("ProjectSalesMvc.Models.SalesRecord", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                        .ValueGeneratedOnAdd();
 
                     b.Property<double>("Amount");
 
@@ -58,8 +54,7 @@ namespace ProjectSalesMvc.Migrations
             modelBuilder.Entity("ProjectSalesMvc.Models.Seller", b =>
                 {
                     b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                        .ValueGeneratedOnAdd();
 
                     b.Property<double>("BaseSalary");
 
@@ -67,9 +62,9 @@ namespace ProjectSalesMvc.Migrations
 
                     b.Property<int?>("DepartmentId");
 
-                    b.Property<string>("Name");
+                    b.Property<string>("Email");
 
-                    b.Property<string>("Senha");
+                    b.Property<string>("Name");
 
                     b.HasKey("Id");
 

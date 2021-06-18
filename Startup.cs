@@ -37,12 +37,15 @@ namespace ProjectSalesMvc
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<ProjectSalesMvcContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("ProjectSalesMvcContext"), builder =>
-                         builder.MigrationsAssembly("ProjectSalesMvc")));
+                    options.UseMySql(Configuration.GetConnectionString("ProjectSalesMvcContext"), builder =>
+                        builder.MigrationsAssembly("ProjectSalesMvc")));
+
+
+            services.AddScoped<SeedingServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, SeedingServices seedingServices)
         {
             if (env.IsDevelopment())
             {
