@@ -11,6 +11,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProjectSalesMvc.Data;
+using ProjectSalesMvc.Models;
 
 namespace ProjectSalesMvc
 {
@@ -50,6 +51,7 @@ namespace ProjectSalesMvc
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                seedingServices.Seed();
             }
             else
             {
