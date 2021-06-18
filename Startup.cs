@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ProjectSalesMvc.Data;
 using ProjectSalesMvc.Models;
+using ProjectSalesMvc.Services;
 
 namespace ProjectSalesMvc
 {
@@ -43,6 +44,7 @@ namespace ProjectSalesMvc
 
 
             services.AddScoped<SeedingServices>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

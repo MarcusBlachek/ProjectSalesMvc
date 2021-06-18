@@ -21,8 +21,6 @@ C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\View
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
-C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -38,3 +36,6 @@ C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSal
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.pdb
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.genruntimeconfig.cache
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSalesMvc.csproj.CopyComplete
+C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
