@@ -39,3 +39,4 @@ C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\ProjectSal
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
