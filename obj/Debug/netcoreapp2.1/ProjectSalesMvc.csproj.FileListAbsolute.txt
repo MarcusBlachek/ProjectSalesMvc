@@ -43,3 +43,4 @@ C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\View
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\Dell\Desktop\Estudos\ProjectSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
